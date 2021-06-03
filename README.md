@@ -2,7 +2,7 @@
 Use this template to create and run tests on your Svelte components.
 ### Clone this repository:
 ```git
-$ git clone https://github.com/...
+$ git clone https://github.com/ErnaneJ/Test-base-model-for-Svelte-components.git
 ```
 ### Install the dependencies present in `package.json`:
 ```npm
